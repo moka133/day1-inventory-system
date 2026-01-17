@@ -53,7 +53,7 @@ day1/
 
 ### 1. 프로젝트 클론
 ```bash
-git clone https://github.com/your-username/day1.git
+git clone https://github.com/moka133/day1.git
 cd day1
 ```
 
